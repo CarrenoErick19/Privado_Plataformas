@@ -88,6 +88,9 @@ Ejecutamos la imagen y el contenedor respectivamente con los siguientes comandos
 
 A continuación se adjuntan capturas de las imágenes en Docker creadas, backend, frontend, y la base de datos ejecutándose con normalidad.
 
+![Imágenes en Docker](https://raw.githubusercontent.com/CarrenoErick19/Privado_Plataformas/main/images/docker-images.png)
+
+
 ![Imágenes en Docer](/images/docker-images.png)
 
 
