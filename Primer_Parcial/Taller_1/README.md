@@ -91,7 +91,7 @@ A continuación se adjuntan capturas de las imágenes en Docker creadas, backend
 ![Imágenes en Docker](https://github.com/CarrenoErick19/Privado_Plataformas/blob/main/Primer_Parcial/Taller_1/images/ERD.png)
 
 
-![Backend corriendo](/images/backend.png)
+![Backend corriendo](https://github.com/CarrenoErick19/Privado_Plataformas/blob/main/Primer_Parcial/Taller_1/images/backend.png)
 
 
 ![Frontend corriendo](/images/frontend.png)
