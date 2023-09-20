@@ -1,4 +1,4 @@
-# Taller No. 1 - Integración de Sistemas y Plataformas
+# Taller No. 2 - Integración de Sistemas y Plataformas
 ## Integrantes (9no Nivel "A")
 - Carreño Reyes Erick Roger
 - Macías Chávez Yandy Eliecer
