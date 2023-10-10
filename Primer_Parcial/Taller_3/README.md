@@ -26,7 +26,7 @@ npm install --save-dev jest
 En donde realizaron para probar los controladores de **createHab** y **getHab** utilizando
 la estructura AAA
 ## CreateHab
-![Test createHab](/Images/imageT1.png)
+![Test createHab](https://github.com/CarrenoErick19/Privado_Plataformas/blob/main/Primer_Parcial/Taller_3/Images/imageT1.png)
 ## GetHab 
 ![Test getHab](/Images/imageT2.png)
 
