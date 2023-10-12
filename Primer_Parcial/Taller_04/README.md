@@ -26,7 +26,7 @@
 
 ## Aplicando el deployment del backend y de la base de datos
 
-![COD1]([/images/img05.png](https://github.com/CarrenoErick19/Privado_Plataformas/blob/main/Primer_Parcial/Taller_04/images/img05.png))
+![COD1](https://github.com/CarrenoErick19/Privado_Plataformas/blob/main/Primer_Parcial/Taller_04/images/img05.png)
 
 ## Retornando todo lo que ha sido creado
 
